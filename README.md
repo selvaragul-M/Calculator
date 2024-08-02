@@ -13,4 +13,7 @@ This project is a basic calculator application that performs simple arithmetic o
 - Clear (AC) and delete (DEL) functionalities
 - Responsive design for different screen sizes
 
+## Webpage
+  https://responsive-calculator-sr.netlify.app/
+
 ![Calculator](https://github.com/user-attachments/assets/66ba4de0-02a9-4d29-a945-c7ade612956a)
